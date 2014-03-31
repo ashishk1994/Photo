@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AsyncAwaitCTP</id>
+    <version>1.0</version>
+    <title>AsyncAwaitCTP</title>
+    <authors>Derik Whittaker</authors>
+    <owners>Derik Whittaker</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Quick Installer for the Async Await Library for .net 4.0 projects (VS 2010)</description>
+    <summary>Quick Installer for the Async Await Library for .net 4.0 projects (VS 2010)</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Async Await</tags>
+  </metadata>
+</package>
